@@ -30,9 +30,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("FoundationDB.Linq")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
 
 [assembly: ComVisible(false)]
 

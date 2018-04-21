@@ -30,9 +30,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("FoundationDB.Client")]
 [assembly: AssemblyDescription(".NET Binding for FoundationDB")]
-[assembly: AssemblyConfiguration("")]
 
 [assembly: ComVisible(false)]
 

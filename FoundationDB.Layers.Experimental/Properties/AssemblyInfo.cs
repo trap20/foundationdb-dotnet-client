@@ -1,9 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("FoundationDB.Layers.Messaging")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
 
 [assembly: ComVisible(false)]
 
